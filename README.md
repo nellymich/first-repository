@@ -2,7 +2,7 @@
 assignment
 /*
  * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * and open the templating changes in this code
  */
 
 /*
