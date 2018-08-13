@@ -131,7 +131,7 @@ public class MessagePane extends javax.swing.JFrame {
                 Send1ActionPerformed(evt);
             }
         });
-
+return 0;
         MessageSent.setFont(new java.awt.Font("Tahoma", 1, 11));
 
         javax.swing.GroupLayout PanelLayout = new javax.swing.GroupLayout(Panel);
